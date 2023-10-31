@@ -9,3 +9,4 @@ El archivo games no necesitan descomprimirlo porque fue la unica forma en que pu
 archivos si que hay que descomprimirlos.El archivo de items se los paso por un enlace de drive porque de otra forma no puedo pasarlo
 en tan poco tiempo.
 
+https://drive.google.com/file/d/12tlLeajGW2smkN9LU4FPdsog9AZ2b8UQ/view?usp=sharing
